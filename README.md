@@ -8,6 +8,9 @@
 <h6>• Create Python Virtual Environment:</h6>
 <pre>python -m venv venv</pre>
 
+<h6>• Activate Environment:</h6>
+<pre>Scripts\activate.bat</pre>
+
 <h6>• Install Locust:</h6>
 <pre>pip install locust</pre>
 
