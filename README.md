@@ -1,4 +1,4 @@
-<h3 align="center">🌿 Performance Test with Locust 🌿</h3>
+<h2 align="center">🌿 Performance Test with Locust 🌿</h2>
 
 <br>
 <h6>• Install Python</h6>
