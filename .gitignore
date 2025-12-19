@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test/coverage
+.coverage
+*.cover
+*.py,cover
+.hypothesis/
+
+# Logs
+*.log
+
+# Locust
+*.stats.csv
+*.stats_history.csv
+*.html
+*.db
+
+# Misc
+*.swp
+*.bak
+*.tmp
